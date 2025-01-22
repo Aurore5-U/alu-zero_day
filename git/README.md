@@ -1,1 +1,1 @@
-# alu-zero_day
+# git directory in alu-zero_day
