@@ -1,1 +1,2 @@
-# alu-zero_day
+cd: change directory
+pwd: print working directory
